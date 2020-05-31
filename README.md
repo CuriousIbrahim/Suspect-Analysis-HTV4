@@ -8,7 +8,9 @@ The suspect analysis tool aims to help identify the behavior of a social media u
 
 # Setup & Installation
 
-### Aiohttp server
+### Flask server
+
+Our Flask Server integrates a Natural Language Processing algorithm, with a mongodb database.
 
 1. [Install Python](https://www.python.org/downloads/)
 
